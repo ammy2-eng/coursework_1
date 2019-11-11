@@ -23,7 +23,7 @@ class Dec2Hex
 	  System.out.println("not expected");
 	  System.exit(1);
 		
-	}	
+	 }	
 		
 	}
 	    
